@@ -1,2 +1,2 @@
 # cifar100-classifier
-A CIFAR100 classifier using CNN
+## OPEN CIFAR.ipynb for detailed description
